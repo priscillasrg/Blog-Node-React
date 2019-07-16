@@ -1,0 +1,32 @@
+{
+  "name": "pri-blog",
+  "version": "1.0.0",
+  "description": "Meu blog Node.js e React.js ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "node.js",
+    "react",
+    "react.js",
+    "watson"
+  ],
+  "author": "\"Priscilla Guimaraes\"",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priscillasrg/Exercises.git"
+  },
+  "bugs": {
+    "url": "https://github.com/priscillasrg/Exercises/"
+  },
+  "homepage": "https://github.com/priscillasrg/Exercises#readme"
+}
